@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shapedesk
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -75,3 +76,5 @@ Generating Jakarta REST resources with Panache
 Easily start your REST Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+# shapedesk
+>>>>>>> 9958dc5db34956d6167f6d563f14c5b1d7a014c0
